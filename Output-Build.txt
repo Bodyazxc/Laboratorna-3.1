@@ -1,0 +1,6 @@
+﻿Build started at 21:08...
+1>------ Build started: Project: Laboratorna 3.1, Configuration: Debug x64 ------
+1>Laboratorna 3.1.cpp
+1>Laboratorna 3.1.vcxproj -> C:\Users\Compik_2\source\repos\Laboratorna 3.1\x64\Debug\Laboratorna 3.1.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build completed at 21:08 and took 01,369 seconds ==========
